@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+tabulate
+pytemperature
+lxml
+flask
+flask-swagger
+flask-swagger-ui
+redis
+celery
+pyside2
+matplotlib
+flake8
+radon
