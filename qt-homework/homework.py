@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'homework.ui',
-# licensing of 'homework.ui' applies.
+
 #
 # Created: Sun Jul 29 16:45:25 2018
 #      by: pyside2-uic  running on PySide2 5.11.1
